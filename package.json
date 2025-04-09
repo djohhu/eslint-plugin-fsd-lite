@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-lite",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "ESLint plugin for FSD architecture",
   "main": "index.js",
   "repository": {
