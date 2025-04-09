@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/eslint-plugin-fsd-lite.git"
+    "url": "https://github.com/djohhu/eslint-plugin-fsd-lite.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
