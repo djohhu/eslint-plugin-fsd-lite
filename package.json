@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-fsd-lite",
+  "version": "1.0.0",
+  "description": "ESLint plugin for FSD architecture",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/eslint-plugin-fsd-lite.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "plugin",
+    "fsd",
+    "architecture"
+  ],
+  "author": "Fomkin",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^9.24.0"
+  }
+}
